@@ -1,41 +1,45 @@
 🔥 Terraform Interview Questions (5+ Years Experience)
+
 ✅ Section 1: Core Concepts (1–20)
-What is Terraform and how does it work internally?
-What is Infrastructure as Code (IaC)?
-Explain Terraform architecture.
-What are providers in Terraform?
-What are resources and data sources?
-Difference between resource and data block?
-What is Terraform state file?
-What is desired state vs actual state?
-What is Terraform lifecycle?
-What is dependency graph in Terraform?
-What is terraform init?
-What is terraform plan?
-What is terraform apply?
-What is terraform destroy?
-What is interpolation in Terraform?
-What are variables in Terraform?
-What are outputs?
-What is terraform fmt?
-What is terraform validate?
-What is terraform refresh?
+
+1.What is Terraform and how does it work internally?
+2.What is Infrastructure as Code (IaC)?
+3.Explain Terraform architecture.
+4.What are providers in Terraform?
+5.What are resources and data sources?
+6.Difference between resource and data block?
+7.What is Terraform state file?
+8.What is desired state vs actual state?
+9.What is Terraform lifecycle?
+10.What is dependency graph in Terraform?
+11.What is terraform init?
+12.What is terraform plan?
+13What is terraform apply?
+14.What is terraform destroy?
+15.What is interpolation in Terraform?
+16.What are variables in Terraform?
+17.What are outputs?
+18.What is terraform fmt?
+19.What is terraform validate?
+20.What is terraform refresh?
+
 ⚙️ Section 2: State Management (21–40)
-What is Terraform state and why is it important?
-What is remote backend?
-Difference between local and remote state?
-What is state locking?
-How Terraform handles concurrent changes?
-What is terraform state command?
-What is terraform import?
-What is terraform taint and untaint?
-What is state drift?
-How do you detect and fix drift?
-What is S3 backend?
-What is DynamoDB locking?
-How do you secure state file?
-What is state file sensitive data issue?
-How to move resources between states?
+
+21.What is Terraform state and why is it important?
+22.What is remote backend?
+23.Difference between local and remote state?
+24.What is state locking?
+25.How Terraform handles concurrent changes?
+26.What is terraform state command?
+27.What is terraform import?
+28.What is terraform taint and untaint?
+29.What is state drift?
+30.How do you detect and fix drift?
+31.What is S3 backend?
+32.What is DynamoDB locking?
+33.How do you secure state file?
+34.What is state file sensitive data issue?
+35.How to move resources between states?
 What is terraform state mv?
 What is terraform state rm?
 How do you handle corrupted state?
