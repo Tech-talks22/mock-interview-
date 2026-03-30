@@ -1,0 +1,117 @@
+🔥 Terraform Interview Questions (5+ Years Experience)
+✅ Section 1: Core Concepts (1–20)
+What is Terraform and how does it work internally?
+What is Infrastructure as Code (IaC)?
+Explain Terraform architecture.
+What are providers in Terraform?
+What are resources and data sources?
+Difference between resource and data block?
+What is Terraform state file?
+What is desired state vs actual state?
+What is Terraform lifecycle?
+What is dependency graph in Terraform?
+What is terraform init?
+What is terraform plan?
+What is terraform apply?
+What is terraform destroy?
+What is interpolation in Terraform?
+What are variables in Terraform?
+What are outputs?
+What is terraform fmt?
+What is terraform validate?
+What is terraform refresh?
+⚙️ Section 2: State Management (21–40)
+What is Terraform state and why is it important?
+What is remote backend?
+Difference between local and remote state?
+What is state locking?
+How Terraform handles concurrent changes?
+What is terraform state command?
+What is terraform import?
+What is terraform taint and untaint?
+What is state drift?
+How do you detect and fix drift?
+What is S3 backend?
+What is DynamoDB locking?
+How do you secure state file?
+What is state file sensitive data issue?
+How to move resources between states?
+What is terraform state mv?
+What is terraform state rm?
+How do you handle corrupted state?
+What is backend configuration?
+How do you manage multiple environments using state?
+🧩 Section 3: Modules & Reusability (41–60)
+What are modules in Terraform?
+Difference between root module and child module?
+How do you create reusable modules?
+What is module versioning?
+What is Terraform Registry?
+How do you use public modules?
+What is module composition?
+What is module dependency?
+How do you pass variables to modules?
+How do you output values from modules?
+What is count in Terraform?
+What is for_each?
+Difference between count and for_each?
+What are dynamic blocks?
+What is locals block?
+What is map and list variables?
+How do you manage complex data structures?
+What is conditional expression?
+What is depends_on?
+How do you handle module errors?
+🚀 Section 4: Real-Time Scenarios (61–80)
+Explain your Terraform project architecture.
+How do you deploy infrastructure in AWS using Terraform?
+How do you manage multi-cloud with Terraform?
+How do you integrate Terraform with Jenkins?
+How do you integrate Terraform with CI/CD pipelines?
+How do you handle secrets in Terraform?
+How do you use Vault with Terraform?
+How do you provision EC2 instances?
+How do you create VPC using Terraform?
+How do you automate Kubernetes cluster creation?
+How do you use Terraform with EKS/AKS/GKE?
+What is immutable infrastructure?
+How do you manage environment variables?
+How do you implement tagging strategy?
+How do you handle rollback in Terraform?
+What is blue-green infra deployment?
+How do you manage dependencies across services?
+How do you optimize Terraform execution?
+How do you manage large-scale infrastructure?
+How do you implement DR (Disaster Recovery)?
+🔐 Section 5: Security & Best Practices (81–90)
+How do you secure Terraform code?
+How do you handle secrets (AWS keys, passwords)?
+What is .tfvars file?
+What is environment variable usage?
+How do you avoid hardcoding secrets?
+What is Terraform Cloud?
+What is Terraform Enterprise?
+How do you implement RBAC in Terraform Cloud?
+How do you audit Terraform runs?
+What are Terraform best practices?
+🛠️ Section 6: Troubleshooting & Advanced Topics (91–100)
+Terraform apply failed — how do you debug?
+Resource not created — possible reasons?
+State file conflict — solution?
+Dependency issue — how to fix?
+Provider version mismatch — how to resolve?
+Terraform plan shows unexpected changes — why?
+How do you debug module errors?
+Terraform performance issues — solutions?
+How do you upgrade Terraform versions safely?
+What is the future of Terraform in DevOps?
+
+🎯 Pro Tips for 5+ Years Interviews
+
+👉 Interviewer expects:
+
+Real-time project explanation (very important)
+Multi-cloud usage (AWS + Azure + GCP basics)
+CI/CD integration (Jenkins, GitHub Actions)
+Strong troubleshooting answers
+Security best practices
